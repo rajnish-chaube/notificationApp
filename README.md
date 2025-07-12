@@ -3,7 +3,8 @@
 This project is a sophisticated web-based application designed to simulate a mobile phone's user interface, complete with real-time push notifications and a full-screen incoming call experience. It masterfully mimics the look and feel of a native application, like WhatsApp or the iOS Phone app, directly in the browser.
 
 A standout feature is its integration with the **Google  API**, which dynamically generates witty and context-aware conversation starters for simulated phone calls, adding a layer of creative interaction.
-
+---
+![Simulator Screenshot](https://github.com/rajnish-chaube/notificationApp/blob/main/Project-Screenshot.png)
 ---
 
 ## ✨ Features
