@@ -1,0 +1,8 @@
+{
+  "name": "React Notification & Call Simulator",
+  "description": "A web application that simulates mobile push notifications, including a full-screen incoming call screen, similar to a native mobile app experience. It uses Gemini to generate conversation starters for simulated calls.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
